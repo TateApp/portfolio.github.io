@@ -31920,7 +31920,7 @@ gWt(a){if(!!a.deltaMode)return a.deltaMode
 return 0},
 $im0:1}
 A.m1.prototype={
-Fk(a,b,c){var s=A.a9Y(a.open(b,c))
+Fk(a,b,c,d){var s=A.a9Y(a.open(b,c,d))
 return s},
 FT(a,b){var s
 this.P7(a)
@@ -53911,7 +53911,7 @@ l=b.R(p).f
 s=b.R(p).f
 return A.f2(q,A.d7(A.kD(A.MU(A.a([A.uq(A.a([m,A.d7(A.a4q(r.c,q,b.R(p).f.a.a),s.a.b/2,l.a.a/2-50)],k),B.aZ)],k),B.cF),q,q),n.a.b/2,o.a.a-50),q,q,q,q,q)}}
 A.Py.prototype={
-$0(){B.a4.Fk(window,this.a.r,"_blank")},
+$0(){B.a4.Fk(window,this.a.r,"_blank","location=yes")},
 $S:0}
 A.Aj.prototype={
 O(a,b){var s=null,r=t.w,q=b.R(r).f,p=b.R(r).f,o=t.E
@@ -53923,7 +53923,7 @@ A.h8.prototype={
 O(a,b){var s=this,r=null,q=b.R(t.w).f,p=t.E
 return A.f2(r,A.MU(A.a([A.f2(r,A.d7(A.a4q(s.d,B.tx,r),300,q.a.a),r,r,r,r,r),A.d7(r,20,r),A.uq(A.a([new A.hA(r),A.lS(s.c,A.eO(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.hA(r)],p),B.aZ),A.d7(r,20,r),A.uq(A.a([new A.hA(r),A.lS(s.e,A.eO(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.hA(r)],p),B.aZ),A.d7(r,20,r),A.d7(A.a81(A.lS(s.f,A.eO(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.Pz(s)),40,r)],p),B.cF),r,r,r,r,r)}}
 A.Pz.prototype={
-$0(){B.a4.Fk(window,this.a.r,"_blank")},
+$0(){B.a4.Fk(window,this.a.r,"_blank","location=yes")},
 $S:0}
 A.b1.prototype={
 aR(a){var s=a.a,r=this.a
